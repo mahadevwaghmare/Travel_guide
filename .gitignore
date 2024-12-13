@@ -41,3 +41,5 @@ coverage/
 # Temporary files
 *.swp
 *.swo
+node_modules/
+.env
